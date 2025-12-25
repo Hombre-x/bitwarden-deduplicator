@@ -1,6 +1,6 @@
 # bitwarden-deduplicator
 
-A small script using the typelevel toolkit to remove duplicates from the CSV password export file of Bitwarden.
+A small script using the typelevel toolkit to remove duplicates from Bitwarden's CSV password export file.
 
 ## Usage
 
