@@ -10,4 +10,4 @@ To run this script, use Scala CLI and pass the file location as an argument:
 scala-cli run . -- /path/to/your/bitwarden_export.csv
 ```
 
-This will process your Bitwarden CSV export file and remove any duplicate entries, helping you maintain a clean password database.
+This will process your Bitwarden CSV export file and remove any duplicate entries.
